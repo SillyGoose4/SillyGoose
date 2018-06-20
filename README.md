@@ -9,9 +9,9 @@ Android小游戏 逛吃的鹅
 ---
   + 完整的项目包括两大部分：服务端和客户端，项目附赠设计文档、数据库文档等内容，这是一个完整的网络简易收集类游戏构建项目。
 ---
-  + 服务端为 __Java Servlet__ 程序，采用 __SpringBoot + Mybatis3__ 框架，数据库为MySQL 5.7，使用__maven__管理包，详情见[服务端链接](https://github.com/SillyGoose4/SillyGooseServerSpringBoot)
+  + 服务端为 __Java Servlet__ 程序，采用 __SpringBoot + Mybatis3__ 框架，数据库为MySQL 5.7，使用 __maven__ 管理包，详情见[服务端链接](https://github.com/SillyGoose4/SillyGooseServerSpringBoot)
 ---
-  + 客户端为 __Android__ 程序，采用__OkHttp3__框架进行http连接，图片加载库为__Universal-Image-Loader__，天气服务使用的是__易源数据__([ShowAPI](https://www.showapi.com/))，可以说是一个大杂烩了，参照网上的代码自建了很多没用的轮子（为了学习嘛），详情见[客户端链接](https://github.com/SillyGoose4/Client)客户端有很大缺陷，暂未完工
+  + 客户端为 __Android__ 程序，采用 __OkHttp3__ 框架进行http连接，图片加载库为 __Universal-Image-Loader__ ，天气服务使用的是__易源数据__([ShowAPI](https://www.showapi.com/))，可以说是一个大杂烩了，参照网上的代码自建了很多没用的轮子（为了学习嘛），详情见[客户端链接](https://github.com/SillyGoose4/Client)客户端有很大缺陷，暂未完工
 
 ### Build
 
@@ -22,8 +22,8 @@ Android小游戏 逛吃的鹅
     git clone https://github.com/SillyGoose4/Client.git Client
 
 2.导入项目  
-如果你使用__IDEA__和__Android Studio__,只需要导入静待自动运行结束即可  
-如果使用__eclipse__，则先需要安装__maven__，然后用maven download 下载jar包，下载完即可运行
+如果你使用 __IDEA__ 和 __Android Studio__ ,只需要导入静待自动运行结束即可  
+如果使用 __eclipse__ ，则先需要安装 __maven__ ，然后用maven download 下载jar包，下载完即可运行
 
 3.启动  
 
@@ -49,4 +49,4 @@ we used [`GNU General Public License v3.0`](/SillyGoose/LICENSE) LICENSE
 __欢迎提出意见和建议！__
 __欢迎fork！欢迎Star！欢迎Push！__
 ##### Explain:
-推荐使用_IDEA_和_Android Studio_,
+推荐使用 _IDEA_ 和 _Android Studio_
