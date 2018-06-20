@@ -29,7 +29,9 @@ Android小游戏 逛吃的鹅
 
 
 ### RELEASE
-[客户端](https://github.com/SillyGoose4/Client/raw/master/app/build/outputs/apk/release/%E9%80%9B%E5%90%83%E7%9A%84%E9%B9%851.0.9.apk)  
+[客户端](https://github.com/SillyGoose4/Client/raw/master/app/build/outputs/apk/release/%E9%80%9B%E5%90%83%E7%9A%84%E9%B9%851.0.9.apk)(部署在GitHub上)  
+[客户端地址2](http://39.108.107.28:8080/get/downloadApk)（部署在云主机上）
+（都不快。）   
 服务端我们已部署至阿里云服务器（阿里云的学生机，带宽只有1Mbps），可直接使用也可自行配置。
 
 
